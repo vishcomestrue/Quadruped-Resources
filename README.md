@@ -71,12 +71,6 @@ Want to add a paper or GitHub repository?
 
 ---
 
-## 🪪 License
-
-This repository is open-source and available under the [MIT License](LICENSE) (or specify your preferred license).
-
----
-
 ## 🙌 Acknowledgements
 
 Thanks to all researchers and developers advancing the field of legged locomotion.
